@@ -30,8 +30,10 @@ body {
 }
 
 .conte {
-  width: 100%;
+  width: 97%;
+  margin: auto;
   height: 560px;
+  margin-top: 5px;
   background-color: rgb(255, 255, 255);
 }
 
